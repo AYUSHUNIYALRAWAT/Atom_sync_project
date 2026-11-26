@@ -1,0 +1,5 @@
+Dataset,Original_Rows,Duplicates_Removed,Missing_Values,Final_Rows
+containers,100,0,0,100
+weather_raw,67200,0,0,67200
+commodity_market_price,160,0,0,160
+market_routes,20,0,0,20
